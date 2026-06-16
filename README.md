@@ -16,6 +16,7 @@ skills/
 | Skill | Description |
 |-------|-------------|
 | [prd-writer](skills/prd-writer/SKILL.md) | PRD(기획서) 작성 워크플로우 가이드 |
+| [strategy-writer](skills/strategy-writer/SKILL.md) | B2B SaaS GTM·시장 진입·사업 확장 전략 문서 작성 가이드 |
 
 ## Usage
 
