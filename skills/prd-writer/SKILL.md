@@ -344,3 +344,10 @@ DARO는 미디에이션을 **대체**하는 것이 아니라, 미디에이션을
 | frequency capping | 동일 유저 광고 노출 빈도 제한 |
 | AXON | AppLovin의 머신러닝 입찰/UA 엔진 |
 | GDPR / CCPA / COPPA | 개인정보 보호 규정 (유럽 / 미 캘리포니아 / 아동) |
+| T1 / T2 | 퍼블리셔 규모 분류. T1: 상위권, T2: 중위권 |
+| ACV | Annual Contract Value. 연간 계약 금액 |
+| NRR | Net Revenue Retention. 순 매출 유지율 |
+
+---
+
+**관련 스킬**: GTM 전략·시장 진입·포지셔닝 등 전략 문서 작성은 `strategy-writer` 스킬을 사용합니다.
