@@ -368,7 +368,7 @@ DARO는 미디에이션을 **대체**하는 것이 아니라, 미디에이션을
 | Deal ID / PMP | Private Marketplace. 특정 DSP에만 허용하는 비공개 경매 |
 | AdMob / AppLovin MAX | DARO의 베이스 미디에이션 플랫폼 |
 | Management API / Report API | 미디에이션 설정·리포팅 API. DARO 대시보드의 데이터 소스 |
-| DARO SDK / Daro Ads SDK | 미디에이션+애드네트워크 통합 SDK / DARO 자체 RTB 애드서버용 SDK |
+| DARO SDK / Daro Ads SDK | 미디에이션+애드네트워크 통합 SDK / DARO 자체 RTB 애드서버용 SDK. **PRD 범위 주의**: 하이재킹 방어·소재 품질 등 Quality 보호 이슈는 미디에이션 전체를 커버하는 **DARO SDK** 레벨의 문제입니다. Daro Ads SDK는 DARO 자체 RTB 부분만 담당하므로, 문제 범위가 "미디에이션 전체 구조"인지 "DARO RTB만"인지 PRD 작성 전에 반드시 구분합니다. |
 | GAM / AdX / Open Bidding | Google 광고 서버 / 거래소 / 입찰 방식 |
 | SKAdNetwork | Apple의 어트리뷰션 프레임워크 |
 | sellers.json / app-ads.txt | 공급망 투명성 표준 |
